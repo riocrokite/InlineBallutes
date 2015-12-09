@@ -1,0 +1,11 @@
+{
+  "NAME": "InlineBallutes",
+  "URL": "https://github.com/riocrokite/InlineBallutes/master/InlineBallutes.version",
+  "DOWNLOAD": "https://github.com/riocrokite/InlineBallutes/releases",
+  "VERSION": "1.2.3",
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 0,
+    "PATCH": 5
+  }
+}
