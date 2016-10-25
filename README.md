@@ -9,10 +9,11 @@ Inline Ballutes is a mod for KSP game and an original work of riocrokite (github
 
 Ballute size (mass) - should work best for:
 
-* 1.25m (0.8t) - up to 20t vessel
-* 2.5 m (1.5t) - up to 40t vessel
-* 3.75m (2.75t) - up to 80t vessel
-* 5m     (4.1t) - up to 120t vessel 
+* 0.625m(0.12t) - up to 5t vessel
+* 1.25m (0.4t) - up to 15t vessel
+* 2.5 m (1.2t) - up to 35t vessel
+* 3.75m (2.4t) - up to 70t vessel
+* 5m    (3.8t) - up to 110t vessel 
 
 More information on the mod's forum thread:
 http://forum.kerbalspaceprogram.com/index.php?/topic/121162-105-inline-ballutes-ib-v123-9122015/
